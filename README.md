@@ -1,3 +1,3 @@
-# The Nice View
+# The Nice Vue
 
 See what I did there....
