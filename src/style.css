@@ -77,3 +77,18 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+input {
+  border: 1px solid transparent;
+  border-radius: 8px;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  color: rgba(255, 255, 255, 0.87);
+  box-sizing: border-box;
+  transition: border-color 0.25s;
+}
+input:focus,
+input:focus-visible {
+  outline: none;
+}
